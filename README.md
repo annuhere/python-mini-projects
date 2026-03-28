@@ -1,2 +1,17 @@
-# python-mini-projects
-A collection of beginner-friendly Python mini projects including a bill split calculator, countdown timer, expense tracker, guess the number game, and smart temperature converter. Designed to practice core programming concepts, logic building, and basic GUI development using Python.
+# 🐍 Python Mini Projects
+
+This repository contains beginner-friendly Python projects:
+
+## 📌 Projects
+- Bill Split Calculator
+- Countdown Timer
+- Expense Tracker
+- Guess the Number Game
+- Temperature Converter
+
+## 💻 Tech Used
+- Python
+- Tkinter (for GUI)
+
+## 🚀 Author
+Anushika Singh
