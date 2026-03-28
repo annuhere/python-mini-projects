@@ -11,7 +11,5 @@ This repository contains beginner-friendly Python projects:
 
 ## 💻 Tech Used
 - Python
-- Tkinter (for GUI)
 
-## 🚀 Author
-Anushika Singh
+
